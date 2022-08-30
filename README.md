@@ -1,6 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Front End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
-![image]()
+
+![](img.png)
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
@@ -22,3 +23,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[BANA ULAŞ](https://app.patika.dev/orhansevgi)
